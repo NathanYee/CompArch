@@ -4,3 +4,6 @@
 [submodule "HW2"]
 	path = HW2
 	url = git@github.com:NathanYee/HW2.git
+[submodule "in-class"]
+	path = in-class
+	url = https://github.com/CompArchFA18/in-class.git
