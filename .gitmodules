@@ -7,3 +7,6 @@
 [submodule "in-class"]
 	path = in-class
 	url = https://github.com/CompArchFA18/in-class.git
+[submodule "Lab0"]
+	path = Lab0
+	url = git@github.com:NathanYee/Lab0.git
