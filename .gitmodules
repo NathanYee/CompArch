@@ -10,3 +10,6 @@
 [submodule "Lab0"]
 	path = Lab0
 	url = git@github.com:NathanYee/Lab0.git
+[submodule "Lab1"]
+	path = Lab1
+	url = git@github.com:NathanYee/Lab1.git
