@@ -16,3 +16,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = git@github.com:NathanYee/Lab2.git
+[submodule "HW4"]
+	path = HW4
+	url = git@github.com:NathanYee/HW4.git
